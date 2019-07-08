@@ -1,6 +1,6 @@
 # Android Crypted Notes
 
-A simple Android application to take cypher notes.
+A simple Android application to take crypted notes.
 
 ## Getting Started
 
