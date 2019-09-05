@@ -1,8 +1,10 @@
-package fr.dylage.android.cryptednotes;
+package fr.dylage.android.cryptednotes.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import fr.dylage.android.cryptednotes.R;
 
 public class MainActivity extends AppCompatActivity {
 
